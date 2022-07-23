@@ -1,7 +1,7 @@
 {
-  "name": "BENNYBOT",
+  "name": "ZynBOT",
   "version": "1.0.0",
-  "description": "Termux or Command Prompt",
+  "description": "Using BAILEYS Multi-Devices",
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
