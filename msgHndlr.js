@@ -26,7 +26,7 @@ const msga = (message) => {
 /**DATABASE*/
 var presen = false
 var pren = 'composing'
-var namabot = 'BennyBOT'
+var namabot = 'XzynBOT'
 
 module.exports = benny = async(benny, ben) => {
 	try {
@@ -60,7 +60,7 @@ let command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
 		 }
 	
 	mess = {
-			wait: '[ WAIT ] Sedang di proses ...⏳',
+			wait: '[ WAIT ] Wait a Minute Second...⏳',
 			success: 'Berhasil!',
 			error: {
 				stick: 'Maaf, terjadi kesalahan saat convert gambar ke sticker',
